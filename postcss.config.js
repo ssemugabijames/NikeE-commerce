@@ -1,1 +1,8 @@
-import { createRequire } from 'module' export default { plugins: { tailwindcss: {}, autoprefixer: {}, }, };
+import { createRequire } from 'module'
+  export default { 
+    plugins:
+    { 
+      tailwindcss: {},
+     autoprefixer: {}, 
+    },
+  };
